@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related local Prod APIs"
   contactDetails:
     name: "smidhi - ProdDeveloper"
-    email: "smidhi@eazybank.com"
+    email: "{cypher}7dc87265011612b6f602ee4d1da0a2d7601713670541160445daca4f00303aa0d830e04b25ed183a558818c848c76b84"
   onCallSupport:
     -(555) 555-0215
     -(555) 523-8954
