@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+accounts:
+  message: "Welcome to EazyBank accounts related local Prod APIs"
+  contactDetails:
+    name: "smidhi - ProdDeveloper"
+    email: "smidhi@eazybank.com"
+  onCallSupport:
+    -(555) 555-0215
+    -(555) 523-8954

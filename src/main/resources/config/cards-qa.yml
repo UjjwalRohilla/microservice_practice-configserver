@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+cards:
+  message: "Welcome to EazyBank cards related local qa APIs"
+  contactDetails:
+    name: "Akash - Developer"
+    email: "akash@eazybank.com"
+  onCallSupport:
+    -(555) 555-7777
+    -(555) 523-4444
