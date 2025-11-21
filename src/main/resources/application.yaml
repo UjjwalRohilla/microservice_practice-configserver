@@ -10,7 +10,8 @@ spring:
 #        native:
 #          search-locations: "classpath:/config"
         git:
-          uri: "https://github.com/eazybytes/eazybytes-config.git"
+#          uri: "https://github.com/eazybytes/eazybytes-config.git"
+          uri: "https://github.com/UjjwalRohilla/microservice_practice-configserver.git"
           default-label: main
           timeout: 5
           clone-on-start: true
