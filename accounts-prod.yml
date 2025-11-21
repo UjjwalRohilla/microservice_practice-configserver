@@ -2,7 +2,7 @@ build:
   version: 2.0
 
 accounts:
-  message: "Welcome to EazyBank accounts related local prod APIs"
+  message: "Welcome to EazyBank accounts related local production APIs"
   contactDetails:
     name: "smidhi - ProdDeveloper"
     email: "smidhi@eazybank.com"
